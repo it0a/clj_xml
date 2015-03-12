@@ -13,7 +13,7 @@
 
 (def sample-line-item [
   {:id 1 :invoice_id 1 :amount 7234.12}
-  {:id 2 :invoice_id 1 :amount 5235.52}
+  {:id 2 :invoice_id 1 :amount 5235.50}
   {:id 3 :invoice_id 1 :amount 4440.57}
   {:id 4 :invoice_id 2 :amount 1456.36}
   {:id 5 :invoice_id 2 :amount 2459.79}
